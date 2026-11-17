@@ -3,7 +3,7 @@ name = "SigmaOS-atomic-counters"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "atomic-counters component"
+description = "atomic counters component"
 upstream = []
 
 [contract]
